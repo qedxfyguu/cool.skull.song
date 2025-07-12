@@ -1,0 +1,13 @@
+body {
+background: lightgray
+}
+h1 {
+text-transform: uppercase;
+}
+p {
+text-transform: uppercase;
+color: blue;
+}
+.container {
+padding: 20px;
+}
